@@ -1,0 +1,237 @@
+[
+  {
+    "description": "         As a logged user on Ryanair\n         When I book a one way flight\n         And I enter my credit card information\n         Then I should get payment declined message",
+    "elements": [
+      {
+        "id": "booking-a-flight-with-declined-payment;",
+        "keyword": "Scenario",
+        "line": 19,
+        "name": "",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Before ",
+            "result": {
+              "status": "passed",
+              "duration": 4156005
+            },
+            "hidden": true,
+            "match": {
+              "location": "Task\\Task\\step_definitions\\step_definitions.js:10"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "I make a booking from \"DUB\" to \"SXF\" on \"13-12-2018\" for \"2\" adults and \"1\" teens and \"0\" children and \"0\" infants",
+            "result": {
+              "status": "passed",
+              "duration": 21897066638
+            },
+            "line": 10,
+            "match": {
+              "location": "Task\\Task\\step_definitions\\step_definitions.js:21"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "I choose standard fare",
+            "result": {
+              "status": "passed",
+              "duration": 16011120708
+            },
+            "line": 11,
+            "match": {
+              "location": "Task\\Task\\step_definitions\\step_definitions.js:25"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "I don't choose seats",
+            "result": {
+              "status": "passed",
+              "duration": 7943508256
+            },
+            "line": 12,
+            "match": {
+              "location": "Task\\Task\\step_definitions\\step_definitions.js:30"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "I \"don't add\" Priority Queue Bag",
+            "result": {
+              "status": "passed",
+              "duration": 1215063
+            },
+            "line": 13,
+            "match": {
+              "location": "Task\\Task\\step_definitions\\step_definitions.js:35"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "I pay for booking with my credit card information \"5555555555555557\", \"10\"/\"2019\", \"265\"",
+            "result": {
+              "status": "passed",
+              "duration": 7752244
+            },
+            "line": 14,
+            "match": {
+              "location": "Task\\Task\\step_definitions\\step_definitions.js:40"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "I should get payment declined message",
+            "result": {
+              "status": "passed",
+              "duration": 38703272775
+            },
+            "line": 15,
+            "match": {
+              "location": "Task\\Task\\step_definitions\\step_definitions.js:45"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 489104
+            },
+            "hidden": true,
+            "match": {
+              "location": "Task\\Task\\step_definitions\\step_definitions.js:16"
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      },
+      {
+        "id": "booking-a-flight-with-declined-payment;",
+        "keyword": "Scenario",
+        "line": 20,
+        "name": "",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Before ",
+            "result": {
+              "status": "passed",
+              "duration": 3484128
+            },
+            "hidden": true,
+            "match": {
+              "location": "Task\\Task\\step_definitions\\step_definitions.js:10"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "name": "I make a booking from \"HAM\" to \"STN\" on \"13-12-2018\" for \"2\" adults and \"0\" teens and \"1\" children and \"0\" infants",
+            "result": {
+              "status": "passed",
+              "duration": 26162070770
+            },
+            "line": 10,
+            "match": {
+              "location": "Task\\Task\\step_definitions\\step_definitions.js:21"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "I choose standard fare",
+            "result": {
+              "status": "passed",
+              "duration": 16008158844
+            },
+            "line": 11,
+            "match": {
+              "location": "Task\\Task\\step_definitions\\step_definitions.js:25"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "I don't choose seats",
+            "result": {
+              "status": "passed",
+              "duration": 18999929733
+            },
+            "line": 12,
+            "match": {
+              "location": "Task\\Task\\step_definitions\\step_definitions.js:30"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "name": "I \"add\" Priority Queue Bag",
+            "result": {
+              "status": "passed",
+              "duration": 1524948
+            },
+            "line": 13,
+            "match": {
+              "location": "Task\\Task\\step_definitions\\step_definitions.js:35"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "name": "I pay for booking with my credit card information \"5555555555555557\", \"10\"/\"2019\", \"265\"",
+            "result": {
+              "status": "passed",
+              "duration": 8188845
+            },
+            "line": 14,
+            "match": {
+              "location": "Task\\Task\\step_definitions\\step_definitions.js:40"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "name": "I should get payment declined message",
+            "result": {
+              "status": "passed",
+              "duration": 36926054061
+            },
+            "line": 15,
+            "match": {
+              "location": "Task\\Task\\step_definitions\\step_definitions.js:45"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "After ",
+            "result": {
+              "status": "passed",
+              "duration": 194615
+            },
+            "hidden": true,
+            "match": {
+              "location": "Task\\Task\\step_definitions\\step_definitions.js:16"
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "booking-a-flight-with-declined-payment",
+    "keyword": "Feature",
+    "line": 3,
+    "name": "Booking a flight with declined payment",
+    "tags": [],
+    "uri": "C:\\Users\\nejrak\\Documents\\Ryanair Test Task\\Task\\features\\declinedPaymentFeature.feature"
+  }
+]
