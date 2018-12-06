@@ -13,11 +13,11 @@
             "keyword": "Before ",
             "result": {
               "status": "passed",
-              "duration": 4156005
+              "duration": 3471101
             },
             "hidden": true,
             "match": {
-              "location": "Task\\Task\\step_definitions\\step_definitions.js:10"
+              "location": "Task\\Task\\TestAutomationTask\\Task\\step_definitions\\step_definitions.js:10"
             }
           },
           {
@@ -26,11 +26,11 @@
             "name": "I make a booking from \"DUB\" to \"SXF\" on \"13-12-2018\" for \"2\" adults and \"1\" teens and \"0\" children and \"0\" infants",
             "result": {
               "status": "passed",
-              "duration": 21897066638
+              "duration": 19941255771
             },
             "line": 10,
             "match": {
-              "location": "Task\\Task\\step_definitions\\step_definitions.js:21"
+              "location": "Task\\Task\\TestAutomationTask\\Task\\step_definitions\\step_definitions.js:21"
             }
           },
           {
@@ -39,11 +39,11 @@
             "name": "I choose standard fare",
             "result": {
               "status": "passed",
-              "duration": 16011120708
+              "duration": 15774286062
             },
             "line": 11,
             "match": {
-              "location": "Task\\Task\\step_definitions\\step_definitions.js:25"
+              "location": "Task\\Task\\TestAutomationTask\\Task\\step_definitions\\step_definitions.js:25"
             }
           },
           {
@@ -52,11 +52,11 @@
             "name": "I don't choose seats",
             "result": {
               "status": "passed",
-              "duration": 7943508256
+              "duration": 8350892270
             },
             "line": 12,
             "match": {
-              "location": "Task\\Task\\step_definitions\\step_definitions.js:30"
+              "location": "Task\\Task\\TestAutomationTask\\Task\\step_definitions\\step_definitions.js:30"
             }
           },
           {
@@ -65,11 +65,11 @@
             "name": "I \"don't add\" Priority Queue Bag",
             "result": {
               "status": "passed",
-              "duration": 1215063
+              "duration": 1907862
             },
             "line": 13,
             "match": {
-              "location": "Task\\Task\\step_definitions\\step_definitions.js:35"
+              "location": "Task\\Task\\TestAutomationTask\\Task\\step_definitions\\step_definitions.js:35"
             }
           },
           {
@@ -78,11 +78,11 @@
             "name": "I pay for booking with my credit card information \"5555555555555557\", \"10\"/\"2019\", \"265\"",
             "result": {
               "status": "passed",
-              "duration": 7752244
+              "duration": 7067735
             },
             "line": 14,
             "match": {
-              "location": "Task\\Task\\step_definitions\\step_definitions.js:40"
+              "location": "Task\\Task\\TestAutomationTask\\Task\\step_definitions\\step_definitions.js:40"
             }
           },
           {
@@ -91,11 +91,11 @@
             "name": "I should get payment declined message",
             "result": {
               "status": "passed",
-              "duration": 38703272775
+              "duration": 35804205507
             },
             "line": 15,
             "match": {
-              "location": "Task\\Task\\step_definitions\\step_definitions.js:45"
+              "location": "Task\\Task\\TestAutomationTask\\Task\\step_definitions\\step_definitions.js:45"
             }
           },
           {
@@ -103,11 +103,11 @@
             "keyword": "After ",
             "result": {
               "status": "passed",
-              "duration": 489104
+              "duration": 544765
             },
             "hidden": true,
             "match": {
-              "location": "Task\\Task\\step_definitions\\step_definitions.js:16"
+              "location": "Task\\Task\\TestAutomationTask\\Task\\step_definitions\\step_definitions.js:16"
             }
           }
         ],
@@ -125,11 +125,11 @@
             "keyword": "Before ",
             "result": {
               "status": "passed",
-              "duration": 3484128
+              "duration": 1246643
             },
             "hidden": true,
             "match": {
-              "location": "Task\\Task\\step_definitions\\step_definitions.js:10"
+              "location": "Task\\Task\\TestAutomationTask\\Task\\step_definitions\\step_definitions.js:10"
             }
           },
           {
@@ -138,11 +138,11 @@
             "name": "I make a booking from \"HAM\" to \"STN\" on \"13-12-2018\" for \"2\" adults and \"0\" teens and \"1\" children and \"0\" infants",
             "result": {
               "status": "passed",
-              "duration": 26162070770
+              "duration": 23663482028
             },
             "line": 10,
             "match": {
-              "location": "Task\\Task\\step_definitions\\step_definitions.js:21"
+              "location": "Task\\Task\\TestAutomationTask\\Task\\step_definitions\\step_definitions.js:21"
             }
           },
           {
@@ -151,11 +151,11 @@
             "name": "I choose standard fare",
             "result": {
               "status": "passed",
-              "duration": 16008158844
+              "duration": 15930947867
             },
             "line": 11,
             "match": {
-              "location": "Task\\Task\\step_definitions\\step_definitions.js:25"
+              "location": "Task\\Task\\TestAutomationTask\\Task\\step_definitions\\step_definitions.js:25"
             }
           },
           {
@@ -164,11 +164,11 @@
             "name": "I don't choose seats",
             "result": {
               "status": "passed",
-              "duration": 18999929733
+              "duration": 16003452547
             },
             "line": 12,
             "match": {
-              "location": "Task\\Task\\step_definitions\\step_definitions.js:30"
+              "location": "Task\\Task\\TestAutomationTask\\Task\\step_definitions\\step_definitions.js:30"
             }
           },
           {
@@ -177,11 +177,11 @@
             "name": "I \"add\" Priority Queue Bag",
             "result": {
               "status": "passed",
-              "duration": 1524948
+              "duration": 1385204
             },
             "line": 13,
             "match": {
-              "location": "Task\\Task\\step_definitions\\step_definitions.js:35"
+              "location": "Task\\Task\\TestAutomationTask\\Task\\step_definitions\\step_definitions.js:35"
             }
           },
           {
@@ -190,11 +190,11 @@
             "name": "I pay for booking with my credit card information \"5555555555555557\", \"10\"/\"2019\", \"265\"",
             "result": {
               "status": "passed",
-              "duration": 8188845
+              "duration": 8612815
             },
             "line": 14,
             "match": {
-              "location": "Task\\Task\\step_definitions\\step_definitions.js:40"
+              "location": "Task\\Task\\TestAutomationTask\\Task\\step_definitions\\step_definitions.js:40"
             }
           },
           {
@@ -203,11 +203,11 @@
             "name": "I should get payment declined message",
             "result": {
               "status": "passed",
-              "duration": 36926054061
+              "duration": 37378876615
             },
             "line": 15,
             "match": {
-              "location": "Task\\Task\\step_definitions\\step_definitions.js:45"
+              "location": "Task\\Task\\TestAutomationTask\\Task\\step_definitions\\step_definitions.js:45"
             }
           },
           {
@@ -215,11 +215,11 @@
             "keyword": "After ",
             "result": {
               "status": "passed",
-              "duration": 194615
+              "duration": 609110
             },
             "hidden": true,
             "match": {
-              "location": "Task\\Task\\step_definitions\\step_definitions.js:16"
+              "location": "Task\\Task\\TestAutomationTask\\Task\\step_definitions\\step_definitions.js:16"
             }
           }
         ],
@@ -232,6 +232,6 @@
     "line": 3,
     "name": "Booking a flight with declined payment",
     "tags": [],
-    "uri": "C:\\Users\\nejrak\\Documents\\Ryanair Test Task\\Task\\features\\declinedPaymentFeature.feature"
+    "uri": "C:\\Users\\nejrak\\Documents\\Ryanair Test Task\\Task\\TestAutomationTask\\Task\\features\\declinedPaymentFeature.feature"
   }
 ]
